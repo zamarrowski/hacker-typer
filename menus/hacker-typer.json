@@ -1,0 +1,34 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start hacker-typer",
+        "command": "hacker-typer:toggle"
+      },
+      {
+        "label": "Enable/Disable hacker-typer",
+        "command": "hacker-typer:end"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "hacker-typer",
+          "submenu": [
+            {
+              "label": "Start",
+              "command": "hacker-typer:toggle"
+            },
+            {
+              "label": "Enable/Disable",
+              "command": "hacker-typer:end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
