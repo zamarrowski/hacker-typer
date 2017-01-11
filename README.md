@@ -6,6 +6,7 @@ Write fake code in Atom. Inspired by http://hackertyper.com/
 Hacker-typer detect the file extension and write code according to language:
 * Python
 * Javascript
+* Java
 
 ## How to use:
 
