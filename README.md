@@ -7,6 +7,7 @@ Hacker-typer detect the file extension and write code according to language:
 * Python
 * Javascript
 * Java
+* Go
 
 ## How to use:
 

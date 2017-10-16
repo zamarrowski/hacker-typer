@@ -9,3 +9,6 @@
 
 ## 0.3.1 - First Release
 * Updated readme and changelog
+
+## 0.3.2 - First Release
+* Added GO language
